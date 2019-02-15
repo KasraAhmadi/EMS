@@ -25,21 +25,30 @@ class resourceMonitor(Thread):
 
     def __init__(self):
         Thread.__init__(self)
-        self.socket = SocketIO('localhost', 80)
-        self.socket.on('connect', self.on_connect)
-        self.socket.on('disconnect', self.on_disconnect)
-        self.socket.on('reconnect', self.on_reconnect)
-        self.socket.on('ssh', self.ssh)
-        self.socket.emit('Register', {"moduleId": "10"})
+
 
 
     def run(self):
-        while True:
-            time.sleep(0.4)
-            if not q.empty():
-                data = q.get()
-                self.socket.emit("data",data)
-                print("Item used in Q")
+        try:
+            print("Trying to connect to socketIO")
+            self.socket = SocketIO('localhost', 80)
+            print("SocketIO connection established")
+            self.socket.on('connect', self.on_connect)
+            self.socket.on('disconnect', self.on_disconnect)
+            self.socket.on('reconnect', self.on_reconnect)
+            self.socket.on('ssh', self.ssh)
+            self.socket.emit('Register', {"moduleId": "10"})
+            while True:
+                time.sleep(0.4)
+                if not q.empty():
+                    data = q.get()
+                    self.socket.emit("data",data)
+                    print("Item used in Q")
+
+        except Exception as e:
+            print(e)
+
+
 
 class AIListener(Thread):
     def __init__(self):
