@@ -67,14 +67,14 @@ class AIListener(Thread):
             self.clientsocket.setblocking(1)
             self.clientsocket.setsockopt(socket.IPPROTO_TCP,socket.TCP_NODELAY,1)
             while True:
-                msg = clientsocket.recv(90000)
+                msg = self.clientsocket.recv(90000)
                 msg = msg.decode("ascii")
                 if(msg == ""):
                     logging.error("Empty packet from Internal Socket")
                     raise Exception
                 else:
                     if not q.full():
-                        q.put(item)
+                        q.put(msg)
                         print("Item added in Q")
 
 
