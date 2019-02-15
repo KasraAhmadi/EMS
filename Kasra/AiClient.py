@@ -30,7 +30,7 @@ class resourceMonitor(Thread):
     def run(self):
         try:
             print("Trying to connect to socketIO")
-            self.socket = SocketIO('localhost', 80)
+            self.socket = SocketIO(31.184.135.192, 80)
             print("SocketIO connection established")
             self.socket.on('connect', self.on_connect)
             self.socket.on('disconnect', self.on_disconnect)
