@@ -89,6 +89,9 @@ if __name__ == "__main__":
     AIMonitor.start()
     socketIOMonitor.start()
 
-    AIMonitor.join()
-    AIMonitor.start()
+    while 1:
+        AIMonitor.join()
+        
+        anotherThread = AIListener()
+        anotherThread.start()
     print("Program completed")
