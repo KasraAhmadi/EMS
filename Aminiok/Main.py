@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#Edited by kasra
+
 # import os
 import socket
 import time
@@ -9,7 +9,6 @@ from HardwareInterface import HardwareInterface
 from ElevatorParams import ElevatorParams
 import json
 import threading
-import datetime
 # import datetime
 # import sys
 from multiprocessing import Process, Value
@@ -23,6 +22,11 @@ check = 0
 try:
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     s.connect((Constants.WRAPPER_IP, Constants.WRAPPER_PORT))  # TODO: Exception Handling for timeout and refuse
+
+    #AI Socket
+    s2 = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    s2.connect((Constants.WRAPPER_IP, 60007))  # TODO: Exception Handling for timeout and refuse
+
 except Exception as e:
     print "Problem in Internal Connection"
 
@@ -128,9 +132,9 @@ def check_changer(n, common):
     while 1:
         time.sleep(1)
         if n.value == 0:
-            n.value = 1	
+            n.value = 1
         else:
-            n.value = 0	
+            n.value = 0
 
 
 def send(setM, m, lock, common):
@@ -149,7 +153,7 @@ def send(setM, m, lock, common):
                             		elevators[elv_iter].elv_perv_fault = elevators[elv_iter].elv_lift_fault
                         	else:
                             		elevators[elv_iter].elv_lift_fault = 0
-			
+
                         	mon = {"id": elv_iter, "mode": elevators[elv_iter].elv_mode,
                                     	"floor number": elevators[elv_iter].elv_floor,
                                     	"position": elevators[elv_iter].elv_car_position,
@@ -160,16 +164,15 @@ def send(setM, m, lock, common):
                                     	"lift status": elevators[elv_iter].elv_lift_stat,
                                     	"numerator": elevators[elv_iter].elv_numerator_concat,
                                     	"direction": elevators[elv_iter].elv_direction,
-					"ErrorConnection": elevators[elv_iter].hasErrorB,
-					"time":str(datetime.datetime.now())
+					"ErrorConnection": elevators[elv_iter].hasErrorB
                                         }
-				print mon
                         	fin.append(mon)
                         	json_to_send = json.dumps({"elevators": fin})
                         	time.sleep(0.4)
                             	elv_iter += 1
 
 				s.sendall(json_to_send)
+                s2.sendall(json_to_send)
         except Exception as e:
                 print e
                 common.value = 1
