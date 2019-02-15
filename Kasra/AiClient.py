@@ -36,7 +36,7 @@ class resourceMonitor(Thread):
             self.socket.on('disconnect', self.on_disconnect)
             self.socket.on('reconnect', self.on_reconnect)
             self.socket.on('ssh', self.ssh)
-            self.socket.emit('Register', {"moduleId": "10"})
+            # self.socket.emit('Register', {"moduleId": "10"})
             while True:
                 time.sleep(0.4)
                 if not q.empty():
