@@ -1,0 +1,2871 @@
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boygroup'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boygroup'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boygroup'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=0 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: Trying to associate with SSID 'boygroup'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boygroup'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=0 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: Trying to associate with SSID 'boygroup'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=0 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boygroup'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=0 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: Trying to associate with SSID 'boygroup'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boygroup'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boygroup'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+wlan0: Trying to associate with SSID 'boygroup'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boygroup'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boygroup'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=0 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: Trying to associate with SSID 'boygroup'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boygroup'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+Line 1: unknown global field 'Passphrase must be 8..63 characters'.
+Line 1: Invalid configuration line 'Passphrase must be 8..63 characters'.
+Failed to read or parse configuration '/home/pi/Files/WifiFiles/wpa_suplicant.conf'.
+Successfully initialized wpa_supplicant
+Line 1: unknown global field 'Passphrase must be 8..63 characters'.
+Line 1: Invalid configuration line 'Passphrase must be 8..63 characters'.
+Failed to read or parse configuration '/home/pi/Files/WifiFiles/wpa_suplicant.conf'.
+Successfully initialized wpa_supplicant
+Line 1: unknown global field 'Passphrase must be 8..63 characters'.
+Line 1: Invalid configuration line 'Passphrase must be 8..63 characters'.
+Failed to read or parse configuration '/home/pi/Files/WifiFiles/wpa_suplicant.conf'.
+Successfully initialized wpa_supplicant
+Line 1: unknown global field 'Passphrase must be 8..63 characters'.
+Line 1: Invalid configuration line 'Passphrase must be 8..63 characters'.
+Failed to read or parse configuration '/home/pi/Files/WifiFiles/wpa_suplicant.conf'.
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+Line 1: unknown global field 'Passphrase must be 8..63 characters'.
+Line 1: Invalid configuration line 'Passphrase must be 8..63 characters'.
+Failed to read or parse configuration '/home/pi/Files/WifiFiles/wpa_suplicant.conf'.
+Successfully initialized wpa_supplicant
+Line 1: unknown global field 'Passphrase must be 8..63 characters'.
+Line 1: Invalid configuration line 'Passphrase must be 8..63 characters'.
+Failed to read or parse configuration '/home/pi/Files/WifiFiles/wpa_suplicant.conf'.
+Successfully initialized wpa_supplicant
+Line 1: unknown global field 'Passphrase must be 8..63 characters'.
+Line 1: Invalid configuration line 'Passphrase must be 8..63 characters'.
+Failed to read or parse configuration '/home/pi/Files/WifiFiles/wpa_suplicant.conf'.
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=0 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: CTRL-EVENT-ASSOC-REJECT status_code=16
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: CTRL-EVENT-ASSOC-REJECT status_code=16
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: CTRL-EVENT-ASSOC-REJECT status_code=16
+wlan0: CTRL-EVENT-SSID-TEMP-DISABLED id=0 ssid="boy group" auth_failures=1 duration=10 reason=CONN_FAILED
+wlan0: CTRL-EVENT-SSID-REENABLED id=0 ssid="boy group"
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+Successfully initialized wpa_supplicant
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=0 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=0 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=0 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=0 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: CTRL-EVENT-ASSOC-REJECT status_code=16
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'Demon'
+wlan0: Associated with 10:c6:1f:22:3f:51
+wlan0: CTRL-EVENT-DISCONNECTED bssid=10:c6:1f:22:3f:51 reason=0 locally_generated=1
+wlan0: WPA: 4-Way Handshake failed - pre-shared key may be incorrect
+wlan0: CTRL-EVENT-SSID-TEMP-DISABLED id=0 ssid="Demon" auth_failures=1 duration=10 reason=WRONG_KEY
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: CTRL-EVENT-SSID-REENABLED id=0 ssid="Demon"
+wlan0: Trying to associate with SSID 'Demon'
+wlan0: Associated with 10:c6:1f:22:3f:51
+wlan0: CTRL-EVENT-DISCONNECTED bssid=10:c6:1f:22:3f:51 reason=0 locally_generated=1
+wlan0: WPA: 4-Way Handshake failed - pre-shared key may be incorrect
+wlan0: CTRL-EVENT-SSID-TEMP-DISABLED id=0 ssid="Demon" auth_failures=2 duration=23 reason=WRONG_KEY
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: CTRL-EVENT-SSID-REENABLED id=0 ssid="Demon"
+wlan0: Trying to associate with SSID 'Demon'
+wlan0: Associated with 10:c6:1f:22:3f:51
+wlan0: CTRL-EVENT-DISCONNECTED bssid=10:c6:1f:22:3f:51 reason=0 locally_generated=1
+wlan0: WPA: 4-Way Handshake failed - pre-shared key may be incorrect
+wlan0: CTRL-EVENT-SSID-TEMP-DISABLED id=0 ssid="Demon" auth_failures=3 duration=46 reason=WRONG_KEY
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+Line 1: unknown global field 'Passphrase must be 8..63 characters'.
+Line 1: Invalid configuration line 'Passphrase must be 8..63 characters'.
+Failed to read or parse configuration '/home/pi/Files/WifiFiles/wpa_suplicant.conf'.
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=0 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'Romina'
+wlan0: Associated with e8:cc:18:a4:fd:9a
+wlan0: CTRL-EVENT-DISCONNECTED bssid=e8:cc:18:a4:fd:9a reason=0 locally_generated=1
+wlan0: WPA: 4-Way Handshake failed - pre-shared key may be incorrect
+wlan0: CTRL-EVENT-SSID-TEMP-DISABLED id=0 ssid="Romina" auth_failures=1 duration=10 reason=WRONG_KEY
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: CTRL-EVENT-DISCONNECTED bssid=00:00:00:00:00:00 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+Line 1: unknown global field 'Passphrase must be 8..63 characters'.
+Line 1: Invalid configuration line 'Passphrase must be 8..63 characters'.
+Failed to read or parse configuration '/home/pi/Files/WifiFiles/wpa_suplicant.conf'.
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+Line 1: unknown global field 'Passphrase must be 8..63 characters'.
+Line 1: Invalid configuration line 'Passphrase must be 8..63 characters'.
+Failed to read or parse configuration '/home/pi/Files/WifiFiles/wpa_suplicant.conf'.
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=48:ee:0c:ce:7d:b5 reason=0 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: Trying to associate with SSID 'aaa'
+wlan0: Associated with 48:ee:0c:ce:7d:b5
+wlan0: WPA: Key negotiation completed with 48:ee:0c:ce:7d:b5 [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 48:ee:0c:ce:7d:b5 completed [id=0 id_str=]
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=0 locally_generated=1
+wlan0: WPA: 4-Way Handshake failed - pre-shared key may be incorrect
+wlan0: CTRL-EVENT-SSID-TEMP-DISABLED id=0 ssid="boy group" auth_failures=1 duration=10 reason=WRONG_KEY
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=0 locally_generated=1
+wlan0: WPA: 4-Way Handshake failed - pre-shared key may be incorrect
+wlan0: CTRL-EVENT-SSID-TEMP-DISABLED id=0 ssid="boy group" auth_failures=1 duration=10 reason=WRONG_KEY
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=0 locally_generated=1
+wlan0: WPA: 4-Way Handshake failed - pre-shared key may be incorrect
+wlan0: CTRL-EVENT-SSID-TEMP-DISABLED id=0 ssid="boy group" auth_failures=1 duration=10 reason=WRONG_KEY
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=0 locally_generated=1
+wlan0: WPA: 4-Way Handshake failed - pre-shared key may be incorrect
+wlan0: CTRL-EVENT-SSID-TEMP-DISABLED id=0 ssid="boy group" auth_failures=1 duration=10 reason=WRONG_KEY
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: CTRL-EVENT-SSID-REENABLED id=0 ssid="boy group"
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=0 locally_generated=1
+wlan0: WPA: 4-Way Handshake failed - pre-shared key may be incorrect
+wlan0: CTRL-EVENT-SSID-TEMP-DISABLED id=0 ssid="boy group" auth_failures=2 duration=23 reason=WRONG_KEY
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: CTRL-EVENT-ASSOC-REJECT status_code=16
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: CTRL-EVENT-ASSOC-REJECT status_code=16
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=0 locally_generated=1
+wlan0: WPA: 4-Way Handshake failed - pre-shared key may be incorrect
+wlan0: CTRL-EVENT-SSID-TEMP-DISABLED id=0 ssid="boy group" auth_failures=1 duration=10 reason=WRONG_KEY
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=0 locally_generated=1
+wlan0: WPA: 4-Way Handshake failed - pre-shared key may be incorrect
+wlan0: CTRL-EVENT-SSID-TEMP-DISABLED id=0 ssid="boy group" auth_failures=1 duration=10 reason=WRONG_KEY
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: CTRL-EVENT-SSID-REENABLED id=0 ssid="boy group"
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=0 locally_generated=1
+wlan0: WPA: 4-Way Handshake failed - pre-shared key may be incorrect
+wlan0: CTRL-EVENT-SSID-TEMP-DISABLED id=0 ssid="boy group" auth_failures=2 duration=23 reason=WRONG_KEY
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=0 locally_generated=1
+wlan0: WPA: 4-Way Handshake failed - pre-shared key may be incorrect
+wlan0: CTRL-EVENT-SSID-TEMP-DISABLED id=0 ssid="boy group" auth_failures=1 duration=10 reason=WRONG_KEY
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=0 locally_generated=1
+wlan0: WPA: 4-Way Handshake failed - pre-shared key may be incorrect
+wlan0: CTRL-EVENT-SSID-TEMP-DISABLED id=0 ssid="boy group" auth_failures=1 duration=10 reason=WRONG_KEY
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=0 locally_generated=1
+wlan0: WPA: 4-Way Handshake failed - pre-shared key may be incorrect
+wlan0: CTRL-EVENT-SSID-TEMP-DISABLED id=0 ssid="boy group" auth_failures=1 duration=10 reason=WRONG_KEY
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=0 locally_generated=1
+wlan0: WPA: 4-Way Handshake failed - pre-shared key may be incorrect
+wlan0: CTRL-EVENT-SSID-TEMP-DISABLED id=0 ssid="boy group" auth_failures=1 duration=10 reason=WRONG_KEY
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=0 locally_generated=1
+wlan0: WPA: 4-Way Handshake failed - pre-shared key may be incorrect
+wlan0: CTRL-EVENT-SSID-TEMP-DISABLED id=0 ssid="boy group" auth_failures=1 duration=10 reason=WRONG_KEY
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=0 locally_generated=1
+wlan0: WPA: 4-Way Handshake failed - pre-shared key may be incorrect
+wlan0: CTRL-EVENT-SSID-TEMP-DISABLED id=0 ssid="boy group" auth_failures=1 duration=10 reason=WRONG_KEY
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=0 locally_generated=1
+wlan0: WPA: 4-Way Handshake failed - pre-shared key may be incorrect
+wlan0: CTRL-EVENT-SSID-TEMP-DISABLED id=0 ssid="boy group" auth_failures=1 duration=10 reason=WRONG_KEY
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=0 locally_generated=1
+wlan0: WPA: 4-Way Handshake failed - pre-shared key may be incorrect
+wlan0: CTRL-EVENT-SSID-TEMP-DISABLED id=0 ssid="boy group" auth_failures=1 duration=10 reason=WRONG_KEY
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+Line 1: unknown global field 'Passphrase must be 8..63 characters'.
+Line 1: Invalid configuration line 'Passphrase must be 8..63 characters'.
+Failed to read or parse configuration '/home/pi/Files/WifiFiles/wpa_suplicant.conf'.
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: CTRL-EVENT-ASSOC-REJECT status_code=16
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: CTRL-EVENT-ASSOC-REJECT status_code=16
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: CTRL-EVENT-ASSOC-REJECT status_code=16
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: CTRL-EVENT-ASSOC-REJECT status_code=16
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: CTRL-EVENT-ASSOC-REJECT status_code=16
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: CTRL-EVENT-ASSOC-REJECT status_code=16
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: CTRL-EVENT-ASSOC-REJECT status_code=16
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: CTRL-EVENT-ASSOC-REJECT status_code=16
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: CTRL-EVENT-ASSOC-REJECT status_code=16
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+                                                                                                                                                                                                          Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=0 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=0 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'HUAWEI Mate 8'
+wlan0: Associated with 02:1a:11:fd:2a:e8
+wlan0: WPA: Key negotiation completed with 02:1a:11:fd:2a:e8 [PTK=CCMP GTK=CCMP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 02:1a:11:fd:2a:e8 completed [id=0 id_str=]
+wlan0: WPA: Group rekeying completed with 02:1a:11:fd:2a:e8 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 02:1a:11:fd:2a:e8 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 02:1a:11:fd:2a:e8 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 02:1a:11:fd:2a:e8 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 02:1a:11:fd:2a:e8 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 02:1a:11:fd:2a:e8 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 02:1a:11:fd:2a:e8 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 02:1a:11:fd:2a:e8 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 02:1a:11:fd:2a:e8 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 02:1a:11:fd:2a:e8 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 02:1a:11:fd:2a:e8 [GTK=CCMP]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=02:1a:11:fd:2a:e8 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'HUAWEI Mate 8'
+wlan0: Associated with 02:1a:11:fd:2a:e8
+wlan0: WPA: Key negotiation completed with 02:1a:11:fd:2a:e8 [PTK=CCMP GTK=CCMP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 02:1a:11:fd:2a:e8 completed [id=0 id_str=]
+wlan0: WPA: Group rekeying completed with 02:1a:11:fd:2a:e8 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 02:1a:11:fd:2a:e8 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 02:1a:11:fd:2a:e8 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 02:1a:11:fd:2a:e8 [GTK=CCMP]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=02:1a:11:fd:2a:e8 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'HUAWEI Mate 8'
+wlan0: Associated with 02:1a:11:fd:2a:e8
+wlan0: WPA: Key negotiation completed with 02:1a:11:fd:2a:e8 [PTK=CCMP GTK=CCMP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 02:1a:11:fd:2a:e8 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=02:1a:11:fd:2a:e8 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: CTRL-EVENT-ASSOC-REJECT status_code=16
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'boy group'
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+Line 2: unknown global field 'Passphrase must be 8..63 characters'.
+Line 2: Invalid configuration line 'Passphrase must be 8..63 characters'.
+Failed to read or parse configuration '/home/pi/Files/WifiFiles/wpa_suplicant.conf'.
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: Authentication with 60:e3:27:fb:f6:fa timed out.
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: WPA: 4-Way Handshake failed - pre-shared key may be incorrect
+wlan0: CTRL-EVENT-SSID-TEMP-DISABLED id=0 ssid="Khashayar" auth_failures=1 duration=10 reason=WRONG_KEY
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: CTRL-EVENT-SSID-REENABLED id=0 ssid="Khashayar"
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: WPA: 4-Way Handshake failed - pre-shared key may be incorrect
+wlan0: CTRL-EVENT-SSID-TEMP-DISABLED id=0 ssid="Khashayar" auth_failures=1 duration=10 reason=WRONG_KEY
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: CTRL-EVENT-SSID-REENABLED id=0 ssid="Khashayar"
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: WPA: 4-Way Handshake failed - pre-shared key may be incorrect
+wlan0: CTRL-EVENT-SSID-TEMP-DISABLED id=0 ssid="Khashayar" auth_failures=2 duration=23 reason=WRONG_KEY
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: CTRL-EVENT-SSID-REENABLED id=0 ssid="Khashayar"
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: WPA: 4-Way Handshake failed - pre-shared key may be incorrect
+wlan0: CTRL-EVENT-SSID-TEMP-DISABLED id=0 ssid="Khashayar" auth_failures=1 duration=10 reason=WRONG_KEY
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: CTRL-EVENT-SSID-REENABLED id=0 ssid="Khashayar"
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=6
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=6
+wlan0: WPA: 4-Way Handshake failed - pre-shared key may be incorrect
+wlan0: CTRL-EVENT-SSID-TEMP-DISABLED id=0 ssid="Khashayar" auth_failures=1 duration=10 reason=WRONG_KEY
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: CTRL-EVENT-SSID-REENABLED id=0 ssid="Khashayar"
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=6
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=6
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+                                                                                                                                                                                                     Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=3 locally_generated=1
+wlan0: WPA: 4-Way Handshake failed - pre-shared key may be incorrect
+wlan0: CTRL-EVENT-SSID-TEMP-DISABLED id=0 ssid="Khashayar" auth_failures=1 duration=10 reason=WRONG_KEY
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+wlan0: CTRL-EVENT-DISCONNECTED bssid=60:e3:27:fb:f6:fa reason=4 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=GB
+wlan0: SME: Trying to authenticate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Trying to associate with 60:e3:27:fb:f6:fa (SSID='Khashayar' freq=2412 MHz)
+wlan0: Associated with 60:e3:27:fb:f6:fa
+wlan0: WPA: Key negotiation completed with 60:e3:27:fb:f6:fa [PTK=CCMP GTK=TKIP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 60:e3:27:fb:f6:fa completed [id=0 id_str=]
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'Darzi'
+wlan0: Associated with f4:3e:61:e0:d5:e4
+wlan0: WPA: Key negotiation completed with f4:3e:61:e0:d5:e4 [PTK=CCMP GTK=CCMP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to f4:3e:61:e0:d5:e4 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=f4:3e:61:e0:d5:e4 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'ToseEertebat'
+wlan0: Associated with 00:23:b1:76:d4:62
+wlan0: WPA: Key negotiation completed with 00:23:b1:76:d4:62 [PTK=CCMP GTK=CCMP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 00:23:b1:76:d4:62 completed [id=0 id_str=]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=00:23:b1:76:d4:62 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'ToseEertebat'
+wlan0: Associated with 00:23:b1:76:d4:62
+wlan0: WPA: Key negotiation completed with 00:23:b1:76:d4:62 [PTK=CCMP GTK=CCMP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 00:23:b1:76:d4:62 completed [id=0 id_str=]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=00:23:b1:76:d4:62 reason=0 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: Trying to associate with SSID 'ToseEertebat'
+wlan0: Associated with 00:23:b1:76:d4:62
+wlan0: WPA: Key negotiation completed with 00:23:b1:76:d4:62 [PTK=CCMP GTK=CCMP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 00:23:b1:76:d4:62 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=00:23:b1:76:d4:62 reason=0 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: Trying to associate with SSID 'ToseEertebat'
+wlan0: CTRL-EVENT-ASSOC-REJECT status_code=16
+wlan0: Trying to associate with SSID 'ToseEertebat'
+wlan0: CTRL-EVENT-ASSOC-REJECT status_code=16
+wlan0: Trying to associate with SSID 'ToseEertebat'
+wlan0: CTRL-EVENT-ASSOC-REJECT status_code=16
+wlan0: CTRL-EVENT-SSID-TEMP-DISABLED id=0 ssid="ToseEertebat" auth_failures=1 duration=10 reason=CONN_FAILED
+wlan0: CTRL-EVENT-SSID-REENABLED id=0 ssid="ToseEertebat"
+wlan0: Trying to associate with SSID 'ToseEertebat'
+wlan0: Associated with 00:23:b1:76:d4:62
+wlan0: WPA: Key negotiation completed with 00:23:b1:76:d4:62 [PTK=CCMP GTK=CCMP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 00:23:b1:76:d4:62 completed [id=0 id_str=]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=00:23:b1:76:d4:62 reason=0 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: Trying to associate with SSID 'ToseEertebat'
+wlan0: CTRL-EVENT-ASSOC-REJECT status_code=16
+wlan0: Trying to associate with SSID 'ToseEertebat'
+wlan0: CTRL-EVENT-ASSOC-REJECT status_code=16
+wlan0: Trying to associate with SSID 'ToseEertebat'
+wlan0: Associated with 00:23:b1:76:d4:62
+wlan0: WPA: Key negotiation completed with 00:23:b1:76:d4:62 [PTK=CCMP GTK=CCMP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 00:23:b1:76:d4:62 completed [id=0 id_str=]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'ToseEertebat'
+wlan0: Associated with 00:23:b1:76:d4:62
+wlan0: WPA: Key negotiation completed with 00:23:b1:76:d4:62 [PTK=CCMP GTK=CCMP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 00:23:b1:76:d4:62 completed [id=0 id_str=]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=00:23:b1:76:d4:62 reason=0 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: Trying to associate with SSID 'ToseEertebat'
+wlan0: Associated with 00:23:b1:76:d4:62
+wlan0: WPA: Key negotiation completed with 00:23:b1:76:d4:62 [PTK=CCMP GTK=CCMP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 00:23:b1:76:d4:62 completed [id=0 id_str=]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=00:23:b1:76:d4:62 reason=0 locally_generated=1
+wlan0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+wlan0: Trying to associate with SSID 'ToseEertebat'
+wlan0: Associated with 00:23:b1:76:d4:62
+wlan0: WPA: Key negotiation completed with 00:23:b1:76:d4:62 [PTK=CCMP GTK=CCMP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 00:23:b1:76:d4:62 completed [id=0 id_str=]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=00:23:b1:76:d4:62 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'ToseEertebat'
+wlan0: Associated with 00:23:b1:76:d4:62
+wlan0: WPA: Key negotiation completed with 00:23:b1:76:d4:62 [PTK=CCMP GTK=CCMP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 00:23:b1:76:d4:62 completed [id=0 id_str=]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=00:23:b1:76:d4:62 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'ToseEertebat'
+wlan0: Associated with 00:23:b1:76:d4:62
+wlan0: WPA: Key negotiation completed with 00:23:b1:76:d4:62 [PTK=CCMP GTK=CCMP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 00:23:b1:76:d4:62 completed [id=0 id_str=]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'ToseEertebat'
+wlan0: Associated with 00:23:b1:76:d4:62
+wlan0: WPA: Key negotiation completed with 00:23:b1:76:d4:62 [PTK=CCMP GTK=CCMP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 00:23:b1:76:d4:62 completed [id=0 id_str=]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=00:23:b1:76:d4:62 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'ToseEertebat'
+wlan0: Associated with 00:23:b1:76:d4:62
+wlan0: WPA: Key negotiation completed with 00:23:b1:76:d4:62 [PTK=CCMP GTK=CCMP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 00:23:b1:76:d4:62 completed [id=0 id_str=]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=00:23:b1:76:d4:62 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 
+Successfully initialized wpa_supplicant
+wlan0: Trying to associate with SSID 'ToseEertebat'
+wlan0: Associated with 00:23:b1:76:d4:62
+wlan0: WPA: Key negotiation completed with 00:23:b1:76:d4:62 [PTK=CCMP GTK=CCMP]
+wlan0: CTRL-EVENT-CONNECTED - Connection to 00:23:b1:76:d4:62 completed [id=0 id_str=]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: WPA: Group rekeying completed with 00:23:b1:76:d4:62 [GTK=CCMP]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=00:23:b1:76:d4:62 reason=3 locally_generated=1
+wlan0: CTRL-EVENT-TERMINATING 

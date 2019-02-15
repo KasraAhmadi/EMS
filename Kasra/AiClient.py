@@ -30,7 +30,7 @@ class resourceMonitor(Thread):
     def run(self):
         try:
             print("Trying to connect to socketIO")
-            self.socket = SocketIO(31.184.135.192, 80)
+            self.socket = SocketIO("31.184.135.192", 80)
             print("SocketIO connection established")
             self.socket.on('connect', self.on_connect)
             self.socket.on('disconnect', self.on_disconnect)
@@ -70,7 +70,6 @@ class AIListener(Thread):
                 msg = self.clientsocket.recv(90000)
                 msg = msg.decode("ascii")
                 if(msg == ""):
-                    logging.error("Empty packet from Internal Socket")
                     raise Exception
                 else:
                     if not q.full():
@@ -90,5 +89,6 @@ if __name__ == "__main__":
     AIMonitor.start()
     socketIOMonitor.start()
 
-
+    AIMonitor.join()
+    AIMonitor.start()
     print("Program completed")
