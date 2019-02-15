@@ -1,4 +1,3 @@
-import gevent
 from socketIO_client_nexus import SocketIO, LoggingNamespace
 import time
 from threading import Thread
