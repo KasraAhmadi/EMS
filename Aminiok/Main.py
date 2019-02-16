@@ -101,7 +101,7 @@ def receive(sm, c, lock, common):
 						elevators[elv_id].write_setting(elv_id, json_object)
 						time.sleep(40)  #TODO: fix this value
 						print "write setting finished"
-						  sm.value=0
+						sm.value=0
 					elif op == 'L':
 						print "learn command recved"
 						sm.value = 1
