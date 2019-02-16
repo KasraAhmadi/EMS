@@ -3,7 +3,7 @@ import time
 from threading import Thread
 import socket
 import queue as queue
-
+import datetime
 
 BUF_SIZE = 100
 q = queue.Queue(BUF_SIZE)
@@ -72,8 +72,14 @@ class AIListener(Thread):
                 if(msg == ""):
                     raise Exception
                 else:
+                    msg_str = str(msg)  # cast shared to string
+                    msg_json_obj = json.loads(msg_str)
+                    now = datetime.datetime.now()
+                    time_now = (now.year, now.month, now.day, now.hour, now.minute, now.second)
+                    msg_json_obj['time'] = time_now
+
                     if not q.full():
-                        q.put(msg)
+                        q.put(msg_json_obj)
                         print("Item added in Q")
 
 
@@ -91,7 +97,7 @@ if __name__ == "__main__":
 
     while 1:
         AIMonitor.join()
-        
+
         anotherThread = AIListener()
         anotherThread.start()
     print("Program completed")
