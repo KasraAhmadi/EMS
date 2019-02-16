@@ -87,17 +87,10 @@ class AIListener(Thread):
             print(e)
             self.serversocket.close()
 
-if __name__ == "__main__":
-
-    AIMonitor = AIListener()
-    socketIOMonitor = resourceMonitor()
-
-    AIMonitor.start()
-    socketIOMonitor.start()
-
-    while 1:
-        AIMonitor.join()
-
-        anotherThread = AIListener()
-        anotherThread.start()
-    print("Program completed")
+AIMonitor = AIListener()
+socketIOMonitor = resourceMonitor()
+AIMonitor.start()
+socketIOMonitor.start()
+AIMonitor.join()
+os.system('kill %d' % os.getpid())
+print("Program completed")
