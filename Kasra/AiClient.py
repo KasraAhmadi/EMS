@@ -75,6 +75,7 @@ class AIListener(Thread):
                     raise Exception
                 else:
                     msg_str = str(msg)  # cast shared to string
+                    print("*******************************")
                     print(msg_str)
                     msg_json_obj = json.loads(msg_str)
                     now = datetime.datetime.now()

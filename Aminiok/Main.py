@@ -170,9 +170,8 @@ def send(setM, m, lock, common):
                         	json_to_send = json.dumps({"elevators": fin})
                         	time.sleep(0.4)
                             	elv_iter += 1
-
 				s.sendall(json_to_send)
-                s2.sendall(json_to_send)
+                		s2.sendall(json_to_send)
         except Exception as e:
                 print e
                 common.value = 1
