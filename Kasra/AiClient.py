@@ -4,6 +4,7 @@ from threading import Thread
 import socket
 import queue as queue
 import datetime
+import os
 
 BUF_SIZE = 100
 q = queue.Queue(BUF_SIZE)
