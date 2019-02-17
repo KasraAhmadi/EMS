@@ -70,6 +70,26 @@ class AIListener(Thread):
 		self.serversocket.listen(1)
 		print("Listen to Internal socket")
 
+	def cleanData(self,data):
+		msg_str = str(data.decode("ascii"))  # cast shared to string
+		json_input = json.loads(msg_str)
+		json_input['elevators'][0]['id']
+
+		out_data = {}
+		now = datetime.datetime.now()
+		time_now = (now.year, now.month, now.day, now.hour, now.minute, now.second)
+		out_data['module_id'] = self.id
+		out_data['data'][0]['direction'] = json_input['elevators'][0]['direction']
+		out_data['data'][0]['time'] = time_now
+		out_data['data'][0]['in_call'] = json_input['elevators'][0]['in call']
+		out_data['data'][0]['out_call_up'] = json_input['elevators'][0]['out call up']
+		out_data['data'][0]['out_call_down'] = json_input['elevators'][0]['out call down']
+		out_data['data'][0]['numerator'] = json_input['elevators'][0]['numerator']
+		out_data['data'][0]['lift_status'] = json_input['elevators'][0]['lift status']
+		out_data['data'][0]['elv_id'] = json_input['elevators'][0]['id']
+		json_data = json.dumps(out_data)
+		return json_data
+
 
 	def run(self):
 		try:
@@ -79,18 +99,13 @@ class AIListener(Thread):
 			self.clientsocket.setsockopt(socket.IPPROTO_TCP,socket.TCP_NODELAY,1)
 			while True:
 				msg = self.clientsocket.recv(90000)
-				msg = msg.decode("ascii")
 				if(msg == ""):
 					raise Exception
 				else:
-					msg_str = str(msg)  # cast shared to string
-					msg_json_obj = json.loads(msg_str)
-					now = datetime.datetime.now()
-					time_now = (now.year, now.month, now.day, now.hour, now.minute, now.second)
-					msg_json_obj['time'] = time_now
-					msg_json_obj['ID'] = self.id
+					myOut = cleanData(msg)
+					print(myOut)
 					if not q.full():
-						q.put(msg_json_obj)
+						q.put(myOut)
 		except Exception as e:
 			print(e)
 			self.serversocket.close()
