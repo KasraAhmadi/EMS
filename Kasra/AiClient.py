@@ -89,6 +89,8 @@ class AIListener(Thread):
 		out_data['data'][0]['lift_status'] = json_input['elevators'][0]['lift status']
 		out_data['data'][0]['elv_id'] = json_input['elevators'][0]['id']
 		json_data = json.dumps(out_data)
+		print("######")
+		print(json_data)
 		return json_data
 
 
