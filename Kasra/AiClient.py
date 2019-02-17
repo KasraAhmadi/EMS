@@ -78,7 +78,7 @@ class AIListener(Thread):
 		out_data = {}
 		now = datetime.datetime.now()
 		time_now = (now.year, now.month, now.day, now.hour, now.minute, now.second)
-		out_data['module_id'] = self.id'
+		out_data['module_id'] = self.id
 		print(json_input['elevators'][0]['direction'])
 		out_data['data'][0]['direction'] = json_input['elevators'][0]['direction']
 		out_data['data'][0]['time'] = time_now
