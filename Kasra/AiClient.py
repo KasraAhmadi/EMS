@@ -71,10 +71,11 @@ class AIListener(Thread):
 		print("Listen to Internal socket")
 
 	def cleanData(self,data):
+
 		msg_str = str(data.decode("ascii"))  # cast shared to string
 		json_input = json.loads(msg_str)
-		json_input['elevators'][0]['id']
-
+		print("*")
+		json_input = json.loads(msg_str)
 		out_data = {}
 		now = datetime.datetime.now()
 		time_now = (now.year, now.month, now.day, now.hour, now.minute, now.second)
