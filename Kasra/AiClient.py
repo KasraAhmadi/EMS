@@ -74,21 +74,28 @@ class AIListener(Thread):
 
 		msg_str = str(data.decode("ascii"))  # cast shared to string
 		json_input = json.loads(msg_str)
-		print("*")
-		print(json_input['elevators'][0]['in call'])
+
 		out_data = {}
 		now = datetime.datetime.now()
 		time_now = (now.year, now.month, now.day, now.hour, now.minute, now.second)
 		out_data['module_id'] = self.id
-		print(json_input['elevators'][0]['direction'])
+		print("1")
 		out_data['data'][0]['direction'] = json_input['elevators'][0]['direction']
+		print("2")
 		out_data['data'][0]['time'] = time_now
+		print("3")
 		out_data['data'][0]['in_call'] = json_input['elevators'][0]['in call']
+		print("4")
 		out_data['data'][0]['out_call_up'] = json_input['elevators'][0]['out call up']
+		print("5")
 		out_data['data'][0]['out_call_down'] = json_input['elevators'][0]['out call down']
+		print("6")
 		out_data['data'][0]['numerator'] = json_input['elevators'][0]['numerator']
+		print("7")
 		out_data['data'][0]['lift_status'] = json_input['elevators'][0]['lift status']
+		print("8")
 		out_data['data'][0]['elv_id'] = json_input['elevators'][0]['id']
+		print("9")
 		print("&&&&&&&")
 		print(out_data)
 		json_data = json.dumps(out_data)
