@@ -75,7 +75,7 @@ class AIListener(Thread):
 		msg_str = str(data.decode("ascii"))  # cast shared to string
 		json_input = json.loads(msg_str)
 		print("*")
-		json_input = json.loads(msg_str)
+		print(json_input)
 		out_data = {}
 		now = datetime.datetime.now()
 		time_now = (now.year, now.month, now.day, now.hour, now.minute, now.second)
