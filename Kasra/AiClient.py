@@ -89,7 +89,6 @@ class AIListener(Thread):
 			out_data['data']['numerator'] = json_input['elevators'][0]['numerator']
 			out_data['data']['lift_status'] = json_input['elevators'][0]['lift status']
 			out_data['data']['elv_id'] = json_input['elevators'][0]['id']
-			print(out_data)
 
 
 			json_data = json.dumps(out_data)
@@ -110,7 +109,6 @@ class AIListener(Thread):
 					raise Exception
 				else:
 					myOut = self.cleanData(msg)
-					print(myOut)
 					if not q.full():
 						q.put(myOut)
 		except Exception as e:
