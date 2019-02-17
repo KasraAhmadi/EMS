@@ -102,7 +102,7 @@ class AIListener(Thread):
 				if(msg == ""):
 					raise Exception
 				else:
-					myOut = cleanData(msg)
+					myOut = self.cleanData(msg)
 					print(myOut)
 					if not q.full():
 						q.put(myOut)
