@@ -77,19 +77,20 @@ class AIListener(Thread):
 
 		try:
 			out_data = {}
+			out_data['data'] = {}
 			now = datetime.datetime.now()
 			time_now = (now.year, now.month, now.day, now.hour, now.minute, now.second)
 			out_data['module_id'] = self.id
 			out_data['data']['direction'] = json_input['elevators'][0]['direction']
+			out_data['data']['time'] = time_now
+			out_data['data']['in_call'] = json_input['elevators'][0]['in call']
+			out_data['data']['out_call_up'] = json_input['elevators'][0]['out call up']
+			out_data['data']['out_call_down'] = json_input['elevators'][0]['out call down']
+			out_data['data']['numerator'] = json_input['elevators'][0]['numerator']
+			out_data['data']['lift_status'] = json_input['elevators'][0]['lift status']
+			out_data['data']['elv_id'] = json_input['elevators'][0]['id']
 			print(out_data)
 
-			# out_data['data']['time'] = time_now
-			# out_data['data']['in_call'] = json_input['elevators'][0]['in call']
-			# out_data['data']['out_call_up'] = json_input['elevators'][0]['out call up']
-			# out_data['data']['out_call_down'] = json_input['elevators'][0]['out call down']
-			# out_data['data']['numerator'] = json_input['elevators'][0]['numerator']
-			# out_data['data']['lift_status'] = json_input['elevators'][0]['lift status']
-			# out_data['data']['elv_id'] = json_input['elevators'][0]['id']
 
 			json_data = json.dumps(out_data)
 		except Exception as e:
