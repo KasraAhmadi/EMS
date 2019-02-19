@@ -84,7 +84,7 @@ class AIListener(Thread):
 
 		msg_str = str(data.decode("ascii"))  # cast shared to string
 		json_input = json.loads(msg_str)
-		self.checkValidity(json_input)
+		#self.checkValidity(json_input)
 
 		try:
 			out_data = {}
