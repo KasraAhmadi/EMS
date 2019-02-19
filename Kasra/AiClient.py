@@ -72,19 +72,22 @@ class AIListener(Thread):
 
 
 	def checkValidity(self,jData):
-		if len(jData['data']['in_call']) == 0:
-			print("in_Call is zero")
-		if len(jData['data']['out_call_up']) == 0:
-			print("out_call_up is zero")
-		if len(jData['data']['out_call_down']) == 0:
-			print("out_call_down is zero")
+		try:
+			if len(jData['data']['in_call']) == 0:
+				print("in_Call is zero")
+			if len(jData['data']['out_call_up']) == 0:
+				print("out_call_up is zero")
+			if len(jData['data']['out_call_down']) == 0:
+				print("out_call_down is zero")
+		except Exception as e:
+			print(e)
 
 
 	def cleanData(self,data):
 
 		msg_str = str(data.decode("ascii"))  # cast shared to string
 		json_input = json.loads(msg_str)
-		self.checkValidity(json_input)
+		#self.checkValidity(json_input)
 
 		try:
 			out_data = {}
