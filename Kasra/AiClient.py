@@ -73,12 +73,14 @@ class AIListener(Thread):
 
 	def checkValidity(self,jData):
 		try:
-			check = False
-			if len(jData['elevators'][0]['in call']) == 0:
-			if len(jData['elevators'][0]['out call up']) == 0:
-				print("out_call_up is zero")
+			if len(jData['elevators'][0]['in call']) != 0:
+				return True
+			if len(jData['elevators'][0]['out call up']) != 0:
+				return True
 			if len(jData['elevators'][0]['out call down']) == 0:
-				print("out_call_down is zero")
+				return True
+			print("Elv is stoped")
+			return False
 		except Exception as e:
 			print(e)
 
