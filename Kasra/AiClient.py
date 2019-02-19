@@ -77,9 +77,8 @@ class AIListener(Thread):
 				return True
 			if len(jData['elevators'][0]['out call up']) != 0:
 				return True
-			if len(jData['elevators'][0]['out call down']) == 0:
+			if len(jData['elevators'][0]['out call down']) != 0:
 				return True
-			print("Elv is stoped")
 			return False
 		except Exception as e:
 			print(e)
@@ -89,28 +88,29 @@ class AIListener(Thread):
 
 		msg_str = str(data.decode("ascii"))  # cast shared to string
 		json_input = json.loads(msg_str)
-		self.checkValidity(json_input)
+		if(self.checkValidity(json_input)):
+			try:
+				out_data = {}
+				out_data['data'] = {}
+				now = datetime.datetime.now()
+				time_now = (now.year, now.month, now.day, now.hour, now.minute, now.second)
+				out_data['module_id'] = self.id
+				out_data['data']['direction'] = json_input['elevators'][0]['direction']
+				out_data['data']['time'] = time_now
+				out_data['data']['in_call'] = json_input['elevators'][0]['in call']
+				out_data['data']['out_call_up'] = json_input['elevators'][0]['out call up']
+				out_data['data']['out_call_down'] = json_input['elevators'][0]['out call down']
+				out_data['data']['numerator'] = json_input['elevators'][0]['numerator']
+				out_data['data']['lift_status'] = json_input['elevators'][0]['lift status']
+				out_data['data']['elv_id'] = json_input['elevators'][0]['id']
 
-		try:
-			out_data = {}
-			out_data['data'] = {}
-			now = datetime.datetime.now()
-			time_now = (now.year, now.month, now.day, now.hour, now.minute, now.second)
-			out_data['module_id'] = self.id
-			out_data['data']['direction'] = json_input['elevators'][0]['direction']
-			out_data['data']['time'] = time_now
-			out_data['data']['in_call'] = json_input['elevators'][0]['in call']
-			out_data['data']['out_call_up'] = json_input['elevators'][0]['out call up']
-			out_data['data']['out_call_down'] = json_input['elevators'][0]['out call down']
-			out_data['data']['numerator'] = json_input['elevators'][0]['numerator']
-			out_data['data']['lift_status'] = json_input['elevators'][0]['lift status']
-			out_data['data']['elv_id'] = json_input['elevators'][0]['id']
 
-
-			json_data = json.dumps(out_data)
-		except Exception as e:
-			print(e)
-		return json_data
+				json_data = json.dumps(out_data)
+			except Exception as e:
+				print(e)
+			return json_data
+		else:
+			return "None"
 
 
 	def run(self):
@@ -125,8 +125,9 @@ class AIListener(Thread):
 					raise Exception
 				else:
 					myOut = self.cleanData(msg)
-					if not q.full():
-						q.put(myOut)
+					if(myOut != "None"):
+						if not q.full():
+							q.put(myOut)
 		except Exception as e:
 			print(e)
 			self.serversocket.close()
