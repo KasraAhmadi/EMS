@@ -18,6 +18,8 @@ import random
 common = 0
 check = 0
 
+AiCounter = 0
+
 #color = ColorSubmit.ColorSubmit()
 
 try:
