@@ -13,6 +13,7 @@ import threading
 # import sys
 from multiprocessing import Process, Value
 import ColorSubmit
+import random
 
 common = 0
 check = 0
@@ -140,6 +141,7 @@ def check_changer(n, common):
 def send(setM, m, lock, common):
 
 		global elevators
+		global AiCounter
 		try:
 			while True:
 				if m.value == 1:
@@ -170,7 +172,10 @@ def send(setM, m, lock, common):
 							time.sleep(0.4)
 							elv_iter += 1
 							s.sendall(json_to_send)
-							s2.sendall(json_to_send)
+							AiCounter = AiCounter + 1
+							if AiCounter == 5:
+								s2.sendall(json_to_send)
+								AiCounter = 0
 		except Exception as e:
 				print e
 				common.value = 1
