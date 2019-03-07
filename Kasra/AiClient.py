@@ -167,5 +167,6 @@ socketIOMonitor = resourceMonitor()
 AIMonitor.start()
 socketIOMonitor.start()
 AIMonitor.join()
+dbconnect.close();
 os.system('kill %d' % os.getpid())
 print("Program completed")
