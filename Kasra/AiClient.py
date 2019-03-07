@@ -7,9 +7,12 @@ import datetime
 import os
 import json
 import Identity
+import sqlite3
+
 
 BUF_SIZE = 100
 q = queue.Queue(BUF_SIZE)
+dbconnect = None
 
 class resourceMonitor(Thread):
 	def on_connect(self):
@@ -28,11 +31,6 @@ class resourceMonitor(Thread):
 	def __init__(self):
 		self.id = 0
 		Thread.__init__(self)
-
-
-
-
-
 
 	def run(self):
 		try:
@@ -113,8 +111,38 @@ class AIListener(Thread):
 			return "None"
 
 
+
+	def connect_to_db(self):
+		global dbconnect
+		try:
+			dbconnect = sqlite3.connect("/media/usbsda1/Elv.db");
+		except Exception as e:
+			print("can't connect to Db")
+		dbconnect.row_factory = sqlite3.Row
+
+
+	def write_to_db(self,msg):
+		global dbconnect
+		if dbconnect != None:
+			myData = json.loads(msg)
+			try:
+				cursor = dbconnect.cursor()
+				cursor.execute('''insert into Data values (?,?,?,?,?,?,?,?)''',
+					(myData.['data']['in_call'],myData.['data']['out_call_up'],myData.['data']['out_call_down'],
+					myData.['data']['elv_id'],myData.['data']['time'],myData.['data']['direction'],myData.['data']['numerator'],myData.['data']['lift_status']))
+				dbconnect.commit()
+			except Exception as e:
+				print(e)
+		else:
+			print("DbConnect is None")
+
+
+
+
+
 	def run(self):
 		try:
+			self.connect_to_db()
 			Client,addr = self.serversocket.accept()
 			self.clientsocket = Client
 			self.clientsocket.setblocking(1)
@@ -126,11 +154,13 @@ class AIListener(Thread):
 				else:
 					myOut = self.cleanData(msg)
 					if(myOut != "None"):
+						self.write_to_db(myOut)
 						if not q.full():
 							q.put(myOut)
 		except Exception as e:
 			print(e)
 			self.serversocket.close()
+
 
 AIMonitor = AIListener()
 socketIOMonitor = resourceMonitor()
