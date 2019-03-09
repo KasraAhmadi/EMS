@@ -13,6 +13,7 @@ import sqlite3
 BUF_SIZE = 100
 q = queue.Queue(BUF_SIZE)
 dbconnect = None
+Simulation = False
 
 class resourceMonitor(Thread):
 	def on_connect(self):
@@ -55,12 +56,12 @@ class resourceMonitor(Thread):
 class AIListener(Thread):
 	def __init__(self):
 		Thread.__init__(self)
-		#Id
-		self.id = "None"
-		file = Identity.Identity()
-		init = file.read("Initial")
-		if(init == "True"):
-			self.id = file.read("Id")
+		self.id = 0
+		if Simulation == False:
+			file = Identity.Identity()
+			init = file.read("Initial")
+			if(init == "True"):
+				self.id = file.read("Id")
 		self.port = 60007
 		self.serversocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 		self.serversocket.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
@@ -115,10 +116,13 @@ class AIListener(Thread):
 	def connect_to_db(self):
 		global dbconnect
 		try:
-			dbconnect = sqlite3.connect("/media/usbsda1/Elv.db");
+			if Simulation:
+				dbconnect = sqlite3.connect("/Users/Kas/Documents/GitHub/EMS/Elv.db");
+			else:
+				dbconnect = sqlite3.connect("/media/usbsda1/Elv.db");
+			dbconnect.row_factory = sqlite3.Row
 		except Exception as e:
-			print("can't connect to Db")
-		dbconnect.row_factory = sqlite3.Row
+			print(e)
 
 
 	def write_to_db(self,msg):
@@ -127,18 +131,17 @@ class AIListener(Thread):
 			myData = json.loads(msg)
 			try:
 				cursor = dbconnect.cursor()
-				cursor.execute('''insert into Data values (?,?,?,?,?,?,?,?)''',
-					(myData.['data']['in_call'],myData.['data']['out_call_up'],myData.['data']['out_call_down'],
-					myData.['data']['elv_id'],myData.['data']['time'],myData.['data']['direction'],myData.['data']['numerator'],myData.['data']['lift_status']))
+				product_sql = "INSERT INTO Data VALUES (?,?,?,?,?,?,?,?)"
+				val = (str(myData['data']['in_call']),str(myData['data']['out_call_up']),str(myData['data']['out_call_down']),
+							myData['data']['elv_id'],str(myData['data']['time']),myData['data']['direction'],
+							myData['data']['numerator'],myData['data']['lift_status'])
+
+				cursor.execute(product_sql,val)
 				dbconnect.commit()
 			except Exception as e:
 				print(e)
 		else:
 			print("DbConnect is None")
-
-
-
-
 
 	def run(self):
 		try:
@@ -150,7 +153,7 @@ class AIListener(Thread):
 			while True:
 				msg = self.clientsocket.recv(90000)
 				if(msg == ""):
-					raise Exception
+					pass
 				else:
 					myOut = self.cleanData(msg)
 					if(myOut != "None"):
@@ -167,6 +170,5 @@ socketIOMonitor = resourceMonitor()
 AIMonitor.start()
 socketIOMonitor.start()
 AIMonitor.join()
-dbconnect.close();
 os.system('kill %d' % os.getpid())
 print("Program completed")

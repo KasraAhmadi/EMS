@@ -1,3 +1,4 @@
+
 '''
 	Project: Recommender Elevator Managment System (REMS)
 	Author: Kasra Ahmadi
@@ -13,9 +14,13 @@ from operator import attrgetter
 import datetime
 import logging
 from random import randint
+import socket
+import json
 
 
 
+
+SocketEnable = True
 time = datetime.datetime(2019,1,1,5,0,0)
 completed = []
 logging.basicConfig(stream=sys.stdout,level=logging.INFO)
@@ -31,6 +36,12 @@ class Elevator(Greenlet):
 	in_call = []
 	out_call_down = []
 	out_call_up = []
+	#NonDynamic for now
+	direction = 0
+	lift_status = 0
+	numerator = 0
+	elv_id = 1
+	socket_to_AI = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 	possible_state = {"Stop": "Stop", "Up_Going": "Up_Going", "Down_Going": "Down_Going",
 					  "Door_Operation": "Door_Operation"}
@@ -47,6 +58,10 @@ class Elevator(Greenlet):
 		self.order_list = []
 		self.general_order_list = []
 
+		if SocketEnable:
+			self.socket_to_AI.connect(("127.0.0.1",  60007))
+
+
 
 	def _run(self):
 		while True:
@@ -54,8 +69,23 @@ class Elevator(Greenlet):
 			self.elv_checker()
 			gevent.sleep(1)
 			self.elv_move()
-			print("in_call:::{0}\nout_call_up:::{1}\nout_call_down:::{2}\n"
-			.format(self.in_call,self.out_call_up,self.out_call_down))
+			if SocketEnable:
+				self.socketToAiClient()
+
+	def socketToAiClient(self):
+		fin = []
+		mon = {"id": self.elv_id,
+		"in call": self.in_call,
+		"out call up": self.out_call_up,
+		"out call down": self.out_call_down,
+		"lift status": self.lift_status,
+		"numerator": self.numerator,
+		"direction": self.direction
+		}
+		fin.append(mon)
+		json_to_send = json.dumps({"elevators": fin})
+		self.socket_to_AI.sendall(json_to_send.encode())
+
 
 
 	def elv_checker(self):

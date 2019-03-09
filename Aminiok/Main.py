@@ -9,8 +9,6 @@ from HardwareInterface import HardwareInterface
 from ElevatorParams import ElevatorParams
 import json
 import threading
-# import datetime
-# import sys
 from multiprocessing import Process, Value
 import ColorSubmit
 import random
