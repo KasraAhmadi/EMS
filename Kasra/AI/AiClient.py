@@ -24,8 +24,7 @@ class resourceMonitor(Thread):
 
 	def ssh(self,*args):
 		Command = "sshpass -p  HammerOn070oahdhvHvdkliv4731 ssh -t -t -R 32320:localhost:22 -o StrictHostKeyChecking=no root@emspaarcontrol.com &"
-		try:
-			subprocess.call(Command,shell=True,stderr=subprocess.STDOUT)
+		subprocess.call(Command,shell=True,stderr=subprocess.STDOUT)
 
 	def kill_ssh(self,*args):
 		Command = "killall ssh"
