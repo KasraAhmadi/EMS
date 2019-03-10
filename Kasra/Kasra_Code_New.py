@@ -43,18 +43,18 @@ loop = asyncio.get_event_loop()
 file = Identity.Identity()
 print("Code is running")
 def GetSerial():
-    # Extract serial from cpuinfo file
-    try:
-        f = open('/proc/cpuinfo','r')
-        msg = ""
-        for line in f:
-            if line[0:6]=='Serial':
-                msg = line[10:26]
-        f.close()
-        return msg
-    except:
-        msg = "UnKnownId"
-        return msg
+	# Extract serial from cpuinfo file
+	try:
+		f = open('/proc/cpuinfo','r')
+		msg = ""
+		for line in f:
+			if line[0:6]=='Serial':
+				msg = line[10:26]
+		f.close()
+		return msg
+	except:
+		msg = "UnKnownId"
+		return msg
 def GetMac(interface):
 	try:
 		mac = open('/sys/class/net/'+interface+'/address').readline()
@@ -64,7 +64,7 @@ def GetMac(interface):
 
 	return mac[0:17]
 def RunListenToElv():
-	t2 = threading.Thread(target=ListenToElevator, args=()) 
+	t2 = threading.Thread(target=ListenToElevator, args=())
 	t2.start()
 	while(1):
 		t2.join()
@@ -77,17 +77,17 @@ def ListenToElevator():
 	global DataToAmin
 	try:
 	# create a socket object
-		serversocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM) 
+		serversocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 		# get local machine name
-		port = 60005                          
+		port = 60005
 		# bind to the port
-		serversocket.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)  
-		serversocket.bind(("0.0.0.0", port))                                  
-		serversocket.listen(1) 
-		logging.info("Listen to Internal socket")                                       
-		Client,addr = serversocket.accept()  
+		serversocket.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
+		serversocket.bind(("0.0.0.0", port))
+		serversocket.listen(1)
+		logging.info("Listen to Internal socket")
+		Client,addr = serversocket.accept()
 		clientsocket = Client
-		clientsocket.setblocking(1)    
+		clientsocket.setblocking(1)
 		clientsocket.setsockopt(socket.IPPROTO_TCP,socket.TCP_NODELAY,1)
 		logging.info("Got a connection from Internal socket")
 		while True:
@@ -181,7 +181,7 @@ async def ToServerSend():
 	try:
 		await asyncio.sleep(10)
 		while(1):
-			is_data_new = 0	
+			is_data_new = 0
 			if(DataReady):
 				######### start filtering data ########
 				#print(shared_str)
@@ -197,7 +197,6 @@ async def ToServerSend():
 					is_data_new = 1
 				########  end filtering data #########
 				if is_data_new:
-					print(shared)
 					await connection.send(shared)
 					#print("Send Elv data to server")
 					now = datetime.datetime.now()
@@ -231,38 +230,38 @@ async def Init_Recieve():
 				answ = await Consumer(greeting)
 				if(not answ == True):
 					await connection.send(answ)
-				await asyncio.sleep(2)          
+				await asyncio.sleep(2)
 	except Exception as e :
 		logging.error(e)
 		#color.ChangeSharedPref("Server","False")
 		ConnectionLost = 1
-		DataReady = 0 
-def run_loop_forever_in_background(loop): 
+		DataReady = 0
+def run_loop_forever_in_background(loop):
 	def thread_func(l):
 		try:
 			asyncio.set_event_loop(l)
 			tasks = [asyncio.ensure_future(Init_Recieve()),  # @UndefinedVariable
 			asyncio.ensure_future(ToServerSend()),
-		 	asyncio.ensure_future(CheckConnection()),
-		 	]  # @UndefinedVariable
+			 asyncio.ensure_future(CheckConnection()),
+			 ]  # @UndefinedVariable
 			l.run_until_complete(asyncio.wait(tasks))
 		except Exception as e:
 			logging("Error in a Main")
-	thread = threading.Thread(target=thread_func, args=(loop,)) 
+	thread = threading.Thread(target=thread_func, args=(loop,))
 	thread.start()
 	return thread
 try:
 	SickSocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 	SickHost = socket.gethostname()
 	SickPort = 60006
-	SickSocket.connect((SickHost,SickPort))	
+	SickSocket.connect((SickHost,SickPort))
 	IsSickSocket = 1
 except Exception as e:
 	print(e)
 
 b = run_loop_forever_in_background(loop)
 
-t1 = threading.Thread(target=RunListenToElv, args=()) 
+t1 = threading.Thread(target=RunListenToElv, args=())
 t1.start()
 while(1):
 	b.join()
