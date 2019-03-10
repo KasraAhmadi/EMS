@@ -10,40 +10,48 @@ import Identity
 import sqlite3
 
 
+
+
 BUF_SIZE = 100
 q = queue.Queue(BUF_SIZE)
 dbconnect = None
-Simulation = False
+Simulation = True
+
 
 class resourceMonitor(Thread):
-	def on_connect(self):
-		print('connect')
-
-	def on_disconnect(self):
-		print('disconnect')
-
-	def on_reconnect(self):
-		print('reconnect')
 
 	def ssh(self,*args):
 		print('ssh called', args)
+
+	def Alive(self,*args):
+		self.SickSocket.send("Alive".encode('ascii'))
+
+
 
 
 	def __init__(self):
 		self.id = 0
 		Thread.__init__(self)
+		self.SickSocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+		self.SickSocket.connect((socket.gethostname(),60008))
+		self.socket = SocketIO("31.184.135.192", 80)
+		print("SocketIO connection established")
+
+		self.socket.on('ssh', self.ssh)
+		self.socket.on('Alive', self.Alive)
 
 	def run(self):
 		try:
-			print("Trying to connect to socketIO")
-			self.socket = SocketIO("31.184.135.192", 80)
-			print("SocketIO connection established")
-			self.socket.on('connect', self.on_connect)
-			self.socket.on('disconnect', self.on_disconnect)
-			self.socket.on('reconnect', self.on_reconnect)
-			self.socket.on('ssh', self.ssh)
+			if Simulation == False:
+				file = Identity.Identity()
+				init = file.read("Initial")
+				if(init == "True"):
+					self.id = file.read("Id")
+			reg_data = {"moduleId":self.id}
+			self.socket.emit("Register",json.dumps(reg_data))
+
 			while True:
-				time.sleep(0.4)
+				self.socket.wait(2)
 				if not q.empty():
 					data = q.get()
 					self.socket.emit("data",data)
