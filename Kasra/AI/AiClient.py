@@ -8,6 +8,8 @@ import os
 import json
 import Identity
 import sqlite3
+import subprocess
+
 
 
 
@@ -21,7 +23,17 @@ Simulation = True
 class resourceMonitor(Thread):
 
 	def ssh(self,*args):
-		print('ssh called', args)
+		Command = "sshpass -p  HammerOn070oahdhvHvdkliv4731 ssh -t -t -R 32320:localhost:22 -o StrictHostKeyChecking=no root@emspaarcontrol.com &"
+		try:
+			subprocess.call(Command,shell=True,stderr=subprocess.STDOUT)
+
+	def kill_ssh(self,*args):
+		Command = "killall ssh"
+		subprocess.call(Command,shell=True,stderr=subprocess.STDOUT)
+
+	def reboot(self,*args):
+		Command = "reboot"
+		subprocess.call(Command,shell=True,stderr=subprocess.STDOUT)
 
 	def Alive(self,*args):
 		self.SickSocket.send("Alive".encode('ascii'))
@@ -41,6 +53,8 @@ class resourceMonitor(Thread):
 			print("SocketIO connection established")
 			self.socket.on('ssh', self.ssh)
 			self.socket.on('Alive', self.Alive)
+			self.socket.on('kill_ssh', self.kill_ssh)
+			self.socket.on('reboot', self.reboot)
 
 			if Simulation == False:
 				file = Identity.Identity()
@@ -152,7 +166,6 @@ class AIListener(Thread):
 
 	def run(self):
 		try:
-			print("thread is running")
 			self.connect_to_db()
 			Client,addr = self.serversocket.accept()
 			self.clientsocket = Client
