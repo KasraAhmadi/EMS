@@ -48,7 +48,7 @@ class resourceMonitor(Thread):
 				if(init == "True"):
 					self.id = file.read("Id")
 			reg_data = {"moduleId":self.id}
-			self.socket.emit("Register",json.dumps(reg_data))
+			self.socket.emit("Register",reg_data)
 
 			while True:
 				self.socket.wait(2)
@@ -58,7 +58,6 @@ class resourceMonitor(Thread):
 
 		except Exception as e:
 			print(e)
-
 
 
 class AIListener(Thread):
