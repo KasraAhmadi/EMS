@@ -17,7 +17,7 @@ import subprocess
 BUF_SIZE = 100
 q = queue.Queue(BUF_SIZE)
 dbconnect = None
-Simulation = True
+Simulation = False
 
 
 class resourceMonitor(Thread):
