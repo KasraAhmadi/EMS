@@ -15,7 +15,7 @@ import sqlite3
 BUF_SIZE = 100
 q = queue.Queue(BUF_SIZE)
 dbconnect = None
-Simulation = False
+Simulation = True
 
 
 class resourceMonitor(Thread):
@@ -32,16 +32,16 @@ class resourceMonitor(Thread):
 	def __init__(self):
 		self.id = 0
 		Thread.__init__(self)
-		self.SickSocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-		self.SickSocket.connect((socket.gethostname(),60008))
-		self.socket = SocketIO("31.184.135.192", 80)
-		print("SocketIO connection established")
-
-		self.socket.on('ssh', self.ssh)
-		self.socket.on('Alive', self.Alive)
 
 	def run(self):
 		try:
+			self.SickSocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+			self.SickSocket.connect((socket.gethostname(),60008))
+			self.socket = SocketIO("31.184.135.192", 80)
+			print("SocketIO connection established")
+			self.socket.on('ssh', self.ssh)
+			self.socket.on('Alive', self.Alive)
+
 			if Simulation == False:
 				file = Identity.Identity()
 				init = file.read("Initial")
@@ -152,6 +152,7 @@ class AIListener(Thread):
 
 	def run(self):
 		try:
+			print("thread is running")
 			self.connect_to_db()
 			Client,addr = self.serversocket.accept()
 			self.clientsocket = Client
@@ -174,8 +175,8 @@ class AIListener(Thread):
 
 AIMonitor = AIListener()
 socketIOMonitor = resourceMonitor()
-AIMonitor.start()
 socketIOMonitor.start()
+AIMonitor.start()
 AIMonitor.join()
 os.system('kill %d' % os.getpid())
 print("Program completed")
