@@ -3,7 +3,6 @@ import time
 import threading
 import subprocess
 import logging
-import system
 import sys
 
 cnt = 0
