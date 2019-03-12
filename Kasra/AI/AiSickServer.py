@@ -2,10 +2,16 @@ import socket
 import time
 import threading
 import subprocess
+import logging
+import system
+import sys
+
 cnt = 0
 ls = []
 sema = 1
 res = 0
+logging.basicConfig(stream=sys.stdout,level=logging.INFO)
+
 def Acc():
 	global res
 	global sema
@@ -20,6 +26,7 @@ def Acc():
 			res = res + 1
 			sema = 1
 			if (res == 2):
+				logging.info("LTAI.service restart")
 				subprocess.call("systemctl restart LtAI.service",shell=True,stderr=subprocess.STDOUT)
 			elif( res == 60 ):
 				res = 0

@@ -9,7 +9,8 @@ import json
 import Identity
 import sqlite3
 import subprocess
-
+import logging
+import sys
 
 
 
@@ -19,11 +20,13 @@ q = queue.Queue(BUF_SIZE)
 dbconnect = None
 Simulation = False
 
+logging.basicConfig(stream=sys.stdout,level=logging.INFO)
 
 class resourceMonitor(Thread):
 
 	def ssh(self,*args):
 		Command = "sshpass -p  HammerOn070oahdhvHvdkliv4731 ssh -t -t -R 32320:localhost:22 -o StrictHostKeyChecking=no root@emspaarcontrol.com &"
+		logging.info("ssh called")
 		subprocess.call(Command,shell=True,stderr=subprocess.STDOUT)
 
 	def kill_ssh(self,*args):
@@ -87,7 +90,6 @@ class AIListener(Thread):
 		self.serversocket.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
 		self.serversocket.bind(("0.0.0.0", self.port))
 		self.serversocket.listen(1)
-		print("Listen to Internal socket")
 
 
 	def checkValidity(self,jData):
