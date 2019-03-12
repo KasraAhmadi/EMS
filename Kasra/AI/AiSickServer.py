@@ -10,6 +10,7 @@ ls = []
 sema = 1
 res = 0
 logging.basicConfig(stream=sys.stdout,level=logging.INFO)
+logging.info("SickServer started")
 
 def Acc():
 	global res

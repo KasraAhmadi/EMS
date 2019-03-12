@@ -21,6 +21,7 @@ dbconnect = None
 Simulation = False
 
 logging.basicConfig(stream=sys.stdout,level=logging.INFO)
+logging.info("AiClient started")
 
 class resourceMonitor(Thread):
 
