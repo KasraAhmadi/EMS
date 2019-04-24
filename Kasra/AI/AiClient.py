@@ -52,7 +52,7 @@ class resourceMonitor(Thread):
 		try:
 			self.SickSocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 			self.SickSocket.connect((socket.gethostname(),60008))
-			self.socket = SocketIO("31.184.135.192", 80)
+			self.socket = SocketIO("5.253.27.28", 80)
 			print("SocketIO connection established")
 			self.socket.on('ssh', self.ssh)
 			self.socket.on('Alive', self.Alive)

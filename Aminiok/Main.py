@@ -172,10 +172,8 @@ def send(setM, m, lock, common):
 							time.sleep(0.4)
 							elv_iter += 1
 							s.sendall(json_to_send)
-							AiCounter = AiCounter + 1
-							if AiCounter == 5:
-								s2.sendall(json_to_send)
-								AiCounter = 0
+							s2.sendall(json_to_send)
+
 		except Exception as e:
 				print e
 				common.value = 1
