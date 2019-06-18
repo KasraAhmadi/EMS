@@ -12,11 +12,13 @@ import threading
 from multiprocessing import Process, Value
 import ColorSubmit
 import random
+import subprocess
 
 common = 0
 check = 0
 
 AiCounter = 0
+BCounter = 0
 
 #color = ColorSubmit.ColorSubmit()
 
@@ -142,6 +144,7 @@ def send(setM, m, lock, common):
 
 		global elevators
 		global AiCounter
+		global BCounter
 		try:
 			while True:
 				if m.value == 1:
@@ -167,9 +170,17 @@ def send(setM, m, lock, common):
 								"direction": elevators[elv_iter].elv_direction,
 								"ErrorConnection": elevators[elv_iter].hasErrorB
 								}
+							if elevators[elv_iter].hasErrorB == 1:
+								BCounter = BCounter + 1
+								if BCounter == 100:
+									BCounter = 0
+									#subprocess.call("systemctl restart LtClient.service",shell=True,stderr=subprocess.STDOUT)
+									print("BUFFER ERROR 100 STARTED")
+									raise Exception
 							fin.append(mon)
 							json_to_send = json.dumps({"elevators": fin})
 							time.sleep(0.4)
+							print (json_to_send)
 							elv_iter += 1
 							s.sendall(json_to_send)
 							s2.sendall(json_to_send)

@@ -8,7 +8,7 @@ class Message():
     #Coming Attr
     Type = None
     PacketNumber = None
-    Data = None 
+    Data = None
     TimeOut = 20
 
 
@@ -21,8 +21,8 @@ class Message():
 
     sshInsOne = "sshpass -p  HammerOn070oahdhvHvdkliv4731 ssh -t -t -R "
     sshInsTwo = ":localhost:22 -o StrictHostKeyChecking=no root@emspaarcontrol.com &"
-    
-    
+
+
     def __init__(self,Type = None,Data = None):
         self.Type = Type
         self.Data = Data
@@ -32,7 +32,7 @@ class Message():
 
     def getJson(self):
         return self.JsonBack
-        
+
     def Eval(self):
         if(self.Type == 'D'):
             #send Data to Can
@@ -62,10 +62,10 @@ class Message():
                 self.DataBack = "Error"
 
             #Run that Command
-        
-    def SendByCan(self,text):    
+
+    def SendByCan(self,text):
         '''
-            Can Stuff 
+            Can Stuff
         '''
         if(text == "ok"):
             self.DataBack = "ack"

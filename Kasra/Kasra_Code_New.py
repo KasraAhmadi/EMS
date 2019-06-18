@@ -95,6 +95,7 @@ def ListenToElevator():
 			msg = clientsocket.recv(90000)
 			msg = msg.decode("ascii")
 			shared = msg
+			#logging.info("data received from elv")
 			if(shared == ""):
 				logging.error("Empty packet from Internal Socket")
 				raise Exception
@@ -108,6 +109,7 @@ def ListenToElevator():
 				DataReady = True
 	except Exception as e:
 		logging.error(e)
+		subprocess.call("systemctl restart LtClient.service",shell=True,stderr=subprocess.STDOUT)
 		serversocket.close()
 async def FirstTimeInit():
 	try:
@@ -184,12 +186,13 @@ async def ToServerSend():
 			is_data_new = 0
 			if(DataReady):
 				######### start filtering data ########
-				#print(shared_str)
 				shared_str = str(shared)  # cast shared to string
+				#logging.info(shared_str)
 				shared_json_obj = json.loads(shared_str)  # cast shared to json
 				try:
 					elv_id = shared_json_obj['elevators'][0]['id']  #  get id tag
 				except Exception as e:
+					logging.error("tag id error")
 					elv_id = 1
 				# make sure that elv_id is 'int' not 'str' !!!
 				if prev_data[elv_id] != str(shared):  # compare each elevator with it's own idww
@@ -197,15 +200,17 @@ async def ToServerSend():
 					is_data_new = 1
 				########  end filtering data #########
 				if is_data_new:
+					logging.info("before sending")
 					await connection.send(shared)
 					#print("Send Elv data to server")
 					now = datetime.datetime.now()
-					#logging.info("Send to server: " + str(now))
+					logging.info("after sending " + str(now))
 				DataReady = False
 			if(ConnectionLost == 1):
 				raise Exception
 			await asyncio.sleep(0.3)
 	except Exception as e:
+		logging.error("to server send error")
 		logging.error(e)
 async def Init_Recieve():
 	try:
@@ -233,6 +238,7 @@ async def Init_Recieve():
 				await asyncio.sleep(2)
 	except Exception as e :
 		logging.error(e)
+		logging.error("init receive error")
 		#color.ChangeSharedPref("Server","False")
 		ConnectionLost = 1
 		DataReady = 0

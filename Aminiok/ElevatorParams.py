@@ -668,7 +668,7 @@ class ElevatorParams:
 
     def enter_learn_mod(self, elv_id):
 	learn_bit = self.send_learn_command(elv_id)
-	
+
 	ctr = 0
 	#wait until elevator is in learn mod
 	while not learn_bit:
@@ -695,14 +695,14 @@ class ElevatorParams:
 		return 0
 
 	msg_u16 = hw_interface.msg_to_u16(msg_byte)
-	
+
 	if not hw_interface.is_msg_valid(msg_u16):
 		print "invalid msg received"
 		return 0
 
 	return self.get_parameter(msg_u16, 0, 64, 6)
-	
-        
+
+
     def parse_setting_params(self, setting_msg_u16):
 
         # floor setting
@@ -1310,7 +1310,7 @@ class ElevatorParams:
         self.s_counter_reset = int(main_setting["CR"])
         #self.s_factory_default = int(main_setting["FACD"])
 	self.s_elv_test_value = int(main_setting["ETT"]) #TODO uncomment after khashi has added this
-	self.s_service_call_days = int (main_setting["CST"])	
+	self.s_service_call_days = int (main_setting["CST"])
 	print "days = "
 	print self.s_service_call_days
 	print "service call"

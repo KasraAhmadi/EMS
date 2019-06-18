@@ -24,7 +24,6 @@ logging.basicConfig(stream=sys.stdout,level=logging.INFO)
 logging.info("AiClient started")
 
 class resourceMonitor(Thread):
-
 	def ssh(self,*args):
 		Command = "sshpass -p  HammerOn070oahdhvHvdkliv4731 ssh -t -t -R 32320:localhost:22 -o StrictHostKeyChecking=no root@emspaarcontrol.com &"
 		logging.info("ssh called")
@@ -125,8 +124,6 @@ class AIListener(Thread):
 				out_data['data']['numerator'] = json_input['elevators'][0]['numerator']
 				out_data['data']['lift_status'] = json_input['elevators'][0]['lift status']
 				out_data['data']['elv_id'] = json_input['elevators'][0]['id']
-
-
 				json_data = json.dumps(out_data)
 			except Exception as e:
 				print(e)
@@ -181,16 +178,16 @@ class AIListener(Thread):
 					myOut = self.cleanData(msg)
 					if(myOut != "None"):
 						self.write_to_db(myOut)
-						if not q.full():
-							q.put(myOut)
+						#if not q.full():
+							#q.put(myOut)
 		except Exception as e:
-			print(e)
+			logging.info(e)
 			self.serversocket.close()
 
 
 AIMonitor = AIListener()
-socketIOMonitor = resourceMonitor()
-socketIOMonitor.start()
+#socketIOMonitor = resourceMonitor()
+#socketIOMonitor.start()
 AIMonitor.start()
 AIMonitor.join()
 os.system('kill %d' % os.getpid())
