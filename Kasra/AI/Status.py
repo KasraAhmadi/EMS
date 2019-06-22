@@ -5,7 +5,7 @@ import jwt
 import logging
 import sys
 logging.basicConfig(stream=sys.stdout,level=logging.INFO)
-url = "http://localhost/module/status"
+url = "http://5.253.27.28/module/status"
 
 def submit_token():
     file = Identity.Identity()
