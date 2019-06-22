@@ -5,7 +5,7 @@ import jwt
 import logging
 import sys
 logging.basicConfig(stream=sys.stdout, level=logging.INFO)
-url = "http://localhost/module/db_handler"
+url = "http://5.253.27.28/module/db_handler"
 filePath = "./DB/Elv.db"
 
 def submit_token():
