@@ -7,7 +7,7 @@ class JwtReader():
 	def __init__(self):
 		if(not os.path.isfile(self.path)):
 			file = open(self.path,"w+")
-			file.write("Initial:False\nToken:Null\nSoftwareVersion: AI:1:2019-06-22")
+			file.write("Initial:False\nToken:Null\nSoftwareVersion:AI-1-2019-06-22")
 			file.close()
 
 	def ChangeSharedPref(self,subject,Replace):
