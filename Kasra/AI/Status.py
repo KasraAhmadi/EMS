@@ -40,8 +40,6 @@ def main(mToken):
                "OsModel": OsModel,
                "SoftwareVersion": SoftwareVersion
                }
-    print(payload)
-    dmesg | less
     headers = {'authorization': mToken}
     requests.post(url, data=payload,headers=headers)
     logging.info("compeleted")
