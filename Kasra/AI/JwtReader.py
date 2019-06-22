@@ -1,16 +1,13 @@
 
 import os.path
 
-class Identity():
-	#path = "/home/pi/Kasra/Identity.log"
-	path = "./Identity.log"
-
-
+class JwtReader():
+	path = "./token.log"
 
 	def __init__(self):
 		if(not os.path.isfile(self.path)):
 			file = open(self.path,"w+")
-			file.write("Initial:False\nId:Null")
+			file.write("Initial:False\nToken:Null")
 			file.close()
 
 	def ChangeSharedPref(self,subject,Replace):
