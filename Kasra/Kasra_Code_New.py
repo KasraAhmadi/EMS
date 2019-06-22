@@ -16,7 +16,6 @@ import time
 import os.path
 import Identity
 import socket
-import ColorSubmit
 import sys
 import subprocess
 
