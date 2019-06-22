@@ -8,8 +8,6 @@ import subprocess
 
 logging.basicConfig(stream=sys.stdout,level=logging.INFO)
 url = "http://5.253.27.28/module/status"
-CpuTempCommand = "cat /sys/class/thermal/thermal_zone0/temp"
-GpuTempCommand = "/opt/vc/bin/vcgencmd measure_temp"
 
 def submit_token():
     file = Identity.Identity()
@@ -32,11 +30,18 @@ def read_token():
         return None
 
 def main(mToken):
-    cpu = int(subprocess.call(CpuTempCommand,shell=True,stderr=subprocess.STDOUT))/1000
-    gpu = subprocess.call(GpuTempCommand,shell=True,stderr=subprocess.STDOUT)
-    print(cpu)
-    print(gpu)
-    payload = {"cpu_temp":cpu}
+    cpu = int(int(subprocess.check_output(["cat","/sys/class/thermal/thermal_zone0/temp"]).decode("utf-8"))/1000)
+    gpu = subprocess.check_output(["/opt/vc/bin/vcgencmd","measure_temp"]).decode("utf-8")[5:7]
+    HardwareModel = subprocess.check_output("dmesg | grep model",shell=True).decode("utf-8")[39:]
+    OsModel =  subprocess.check_output("cat /etc/os-release | grep VERSION=",shell=True).de$
+    SoftwareVersion = tokenFile.read("SoftwareVersion")
+    payload = {"cpu":cpu,"gpu":gpu,
+               "HardwareModel":HardwareModel,
+               "OsModel": OsModel,
+               "SoftwareVersion": SoftwareVersion
+               }
+    print(payload)
+    dmesg | less
     headers = {'authorization': mToken}
     requests.post(url, data=payload,headers=headers)
     logging.info("compeleted")
