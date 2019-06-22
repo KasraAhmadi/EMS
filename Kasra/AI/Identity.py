@@ -2,8 +2,8 @@
 import os.path
 
 class Identity():
-	#path = "/home/pi/Kasra/Identity.log"
-	path = "./Identity.log"
+	path = "/home/pi/Kasra/Identity.log"
+	#path = "./Identity.log"
 
 
 
