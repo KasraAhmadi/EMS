@@ -4,8 +4,12 @@ import JwtReader
 import jwt
 import logging
 import sys
+import subprocess
+
 logging.basicConfig(stream=sys.stdout,level=logging.INFO)
 url = "http://5.253.27.28/module/status"
+CpuTempCommand = "cat /sys/class/thermal/thermal_zone0/temp"
+GpuTempCommand = "/opt/vc/bin/vcgencmd measure_temp"
 
 def submit_token():
     file = Identity.Identity()
@@ -28,7 +32,11 @@ def read_token():
         return None
 
 def main(mToken):
-    payload = {"cpu_temp":12}
+    cpu = int(subprocess.call(CpuTempCommand,shell=True,stderr=subprocess.STDOUT))/1000
+    gpu = subprocess.call(GpuTempCommand,shell=True,stderr=subprocess.STDOUT)
+    print(cpu)
+    print(gpu)
+    payload = {"cpu_temp":cpu}
     headers = {'authorization': mToken}
     requests.post(url, data=payload,headers=headers)
     logging.info("compeleted")
