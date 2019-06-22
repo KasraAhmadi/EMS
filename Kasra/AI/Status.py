@@ -33,7 +33,7 @@ def main(mToken):
     cpu = int(int(subprocess.check_output(["cat","/sys/class/thermal/thermal_zone0/temp"]).decode("utf-8"))/1000)
     gpu = subprocess.check_output(["/opt/vc/bin/vcgencmd","measure_temp"]).decode("utf-8")[5:7]
     HardwareModel = subprocess.check_output("dmesg | grep model",shell=True).decode("utf-8")[39:]
-    OsModel =  subprocess.check_output("cat /etc/os-release | grep VERSION=",shell=True).de$
+    OsModel =  subprocess.check_output("cat /etc/os-release | grep VERSION=",shell=True).decode("utf-8")[9:-2]
     SoftwareVersion = tokenFile.read("SoftwareVersion")
     payload = {"cpu":cpu,"gpu":gpu,
                "HardwareModel":HardwareModel,
