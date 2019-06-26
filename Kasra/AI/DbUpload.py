@@ -5,6 +5,7 @@ import jwt
 import logging
 import sys
 import subprocess
+import os
 
 logging.basicConfig(stream=sys.stdout, level=logging.INFO)
 url = "http://5.253.27.28/module/db_handler"
