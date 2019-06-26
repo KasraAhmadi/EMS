@@ -5,7 +5,6 @@ import jwt
 import logging
 import sys
 import subprocess
-
 logging.basicConfig(stream=sys.stdout,level=logging.INFO)
 url = "http://5.253.27.28/module/status"
 

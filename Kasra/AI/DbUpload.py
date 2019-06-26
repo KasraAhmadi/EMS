@@ -4,6 +4,8 @@ import JwtReader
 import jwt
 import logging
 import sys
+import subprocess
+
 logging.basicConfig(stream=sys.stdout, level=logging.INFO)
 url = "http://5.253.27.28/module/db_handler"
 filePath = "./DB/Elv.db"
@@ -32,11 +34,21 @@ def read_token():
 
 
 def main(mToken):
-    multiple_files = [
-        ('db_file', ('Elv.db', open(filePath, 'rb'), 'file'))]
-    headers = {'authorization': mToken}
-    payload = {"fileName":"Elv.db"}
-    r = requests.post(url,data=payload,files=multiple_files, headers=headers)
+    if(os.path.isfile(filePath)):
+        multiple_files = [
+            ('db_file', ('Elv.db', open(filePath, 'rb'), 'file'))]
+        headers = {'authorization': mToken}
+        payload = {"fileName":"Elv.db"}
+        r = requests.post(url,data=payload,files=multiple_files, headers=headers)
+        if r.status_code == 200:
+            numOfSent = int(tokenFile.read("dbSent"))
+            print(numOfSent)
+            numOfSent+= 1
+            tokenFile.ChangeSharedPref("dbSent",str(numOfSent))
+            subprocess.call("rm "+filePath,shell=True,stderr=subprocess.STDOUT)
+    else:
+        logging.info("No file to send")
+
     logging.info("compeleted")
 
 

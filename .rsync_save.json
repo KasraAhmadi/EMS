@@ -1,0 +1,5 @@
+{
+     "enable": true,
+     "remoteHost": "RPI_Local",
+     "remotePath": "/home/pi/"
+ }
