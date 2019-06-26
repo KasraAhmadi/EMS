@@ -10,7 +10,6 @@ from ElevatorParams import ElevatorParams
 import json
 import threading
 from multiprocessing import Process, Value
-import ColorSubmit
 import random
 import subprocess
 
