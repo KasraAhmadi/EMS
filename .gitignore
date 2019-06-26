@@ -3,7 +3,6 @@ Identity.log
 __pycache__/
 *.py[cod]
 *$py.class
-Elv.db
 # C extensions
 *.so
 
