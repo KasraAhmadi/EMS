@@ -47,6 +47,8 @@ def main(mToken):
             numOfSent+= 1
             tokenFile.ChangeSharedPref("dbSent",str(numOfSent))
             subprocess.call("rm "+filePath,shell=True,stderr=subprocess.STDOUT)
+            subprocess.call("cp /home/pi/Elv.db "+filePath,shell=True,stderr=subprocess.STDOUT)
+
     else:
         logging.info("No file to send")
 
