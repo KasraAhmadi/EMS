@@ -2,7 +2,7 @@
 import os.path
 
 class JwtReader():
-	path = "./token.log"
+	path = "/home/pi/Kasra/AI/token.log"
 
 	def __init__(self):
 		if(not os.path.isfile(self.path)):
