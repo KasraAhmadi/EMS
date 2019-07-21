@@ -139,9 +139,9 @@ class AIListener(Thread):
 			if Simulation:
 				dbconnect = sqlite3.connect("/Users/Kas/Documents/GitHub/EMS/Elv.db");
 			else:
-				if(not os.path.isfile("./DB/Elv.db")):
-					subprocess.call("cp /home/pi/Elv.db ./DB/Elv.db",shell=True,stderr=subprocess.STDOUT)
-				dbconnect = sqlite3.connect("/media/usbsda1/Elv.db");
+				if(not os.path.isfile("/home/pi/Kasra/AI/DB/Elv.db")):
+					subprocess.call("cp /home/pi/Elv.db /home/pi/Kasra/AI/DB/Elv.db",shell=True,stderr=subprocess.STDOUT)
+				dbconnect = sqlite3.connect("/home/pi/Kasra/AI/DB/Elv.db");
 			dbconnect.row_factory = sqlite3.Row
 		except Exception as e:
 			print(e)

@@ -28,7 +28,7 @@ def Acc():
 			if (res == 5):
 				logging.info("Sick Server LtClient restart")
 				subprocess.call("systemctl restart LtClient.service",shell=True,stderr=subprocess.STDOUT)
-			elif( res == 60 ):
+			elif( res == 60):
 				res = 0
 				logging.info("Sick Server system restart")
 				subprocess.call("reboot",shell=True,stderr=subprocess.STDOUT)
@@ -67,7 +67,6 @@ def Handler():
         serversocket.close()
         raise Exception
 
-print("ALINE?????")
 t1 = threading.Thread(target=Handler, args=())
 t1.start()
 t2 = threading.Thread(target=Acc, args=())

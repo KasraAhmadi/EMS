@@ -9,7 +9,7 @@ import os
 
 logging.basicConfig(stream=sys.stdout, level=logging.INFO)
 url = "http://5.253.27.28/module/db_handler"
-filePath = "./DB/Elv.db"
+filePath = "/home/pi/Kasra/AI/DB/Elv.db"
 
 def submit_token():
     file = Identity.Identity()
