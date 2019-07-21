@@ -108,7 +108,7 @@ def ListenToElevator():
 				DataReady = True
 	except Exception as e:
 		logging.error(e)
-		subprocess.call("systemctl restart LtClient.service",shell=True,stderr=subprocess.STDOUT)
+		#subprocess.call("systemctl restart LtClient.service",shell=True,stderr=subprocess.STDOUT)
 		serversocket.close()
 async def FirstTimeInit():
 	try:
